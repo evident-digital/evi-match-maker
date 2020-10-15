@@ -1,0 +1,8 @@
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Domain\bin\Debug\netstandard2.1\Domain.dll
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Domain\bin\Debug\netstandard2.1\Domain.pdb
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Domain\obj\Debug\netstandard2.1\Domain.dll
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Domain\obj\Debug\netstandard2.1\Domain.pdb
