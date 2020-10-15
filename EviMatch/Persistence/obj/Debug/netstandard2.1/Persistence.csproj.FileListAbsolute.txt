@@ -1,0 +1,12 @@
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Persistence\bin\Debug\netstandard2.1\Persistence.deps.json
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Persistence\bin\Debug\netstandard2.1\Persistence.dll
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Persistence\bin\Debug\netstandard2.1\Persistence.pdb
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Persistence\bin\Debug\netstandard2.1\Domain.dll
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Persistence\bin\Debug\netstandard2.1\Domain.pdb
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Persistence\obj\Debug\netstandard2.1\Persistence.csprojAssemblyReference.cache
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CoreCompileInputs.cache
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfoInputs.cache
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfo.cs
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CopyComplete
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Persistence\obj\Debug\netstandard2.1\Persistence.dll
+D:\git\TechRadar_GraphQL_Reference\EviMatch\Persistence\obj\Debug\netstandard2.1\Persistence.pdb
