@@ -1,0 +1,8 @@
+name: evimatch
+runtime: dotnet
+description: evi matches
+template:
+  config:
+    sqlPassword:
+      description: SQL Server password (complex enough to satisfy Azure policy)
+      secret: true
