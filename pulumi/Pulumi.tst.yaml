@@ -1,0 +1,11 @@
+config:
+  azure:location: WestEurope
+  azure:skipProviderRegistration: true
+  
+  evimatch:resourcegroupid: /subscriptions/6d42cb18-bfde-478a-9306-0385a96b1e9a/resourceGroups/rg-we-evimatch-tst
+
+  evimatch:environment: tst
+  evimatch:location: we
+  evimatch:sqlAdmin: pulumi
+  evimatch:sqlPassword: )kuk<}u2X5*/{Yba
+
